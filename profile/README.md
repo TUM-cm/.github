@@ -26,6 +26,9 @@ Application areas include Internet for All, local and autonomous networking, and
 | [NetMet](https://github.com/boserohan/netmet) | Browser extension for checking web and Internet performance |
 | [EnGINE](https://engine-framework.pages.gitlab.lrz.de/engine/) | Orchestration of reproducible networking experiments |
 | [The ONE](https://github.com/akeranen/the-one) | Simulator for opportunistic networks |
+| [NixNet](https://nixnet.org) | Reproducible network experiments with Nix |
+| [NetScalpel](https://github.com/hendrikcech/NetScalpel) | A composable measurement toolkit to surgically dissect link and queue dynamics |
+
 
 The full list is on our [software page](https://www.ce.cit.tum.de/cm/software-stuff/).
 
