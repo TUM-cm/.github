@@ -7,13 +7,16 @@ We are the [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/) at 
 
 The chair is led by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/). Meet the rest of the [research group](https://www.ce.cit.tum.de/cm/research-group/) on our website.
 
-## Research
+## Research Themes
 
-- Mobile opportunistic networking and computing
-- Network architecture
-- New mobile application and service paradigms
-- Mobile Internet measurements and analysis
-- Mobility and user activity modeling
+- Multipath Transport & Hybrid Networking
+- Internet Performance
+- Real-Time Transport & Media Delivery
+- Networking in Space
+- Time-Sensitive Networking
+- Transport Protocols
+- Cloud-Edge Orchestration
+- Wi-Fi Sensing
 - Human-centered recommender systems
 
 Application areas include Internet for All, local and autonomous networking, and secure and flexible cloud computing. Our papers are on the [publications page](https://www.ce.cit.tum.de/cm/publications/).
@@ -35,7 +38,7 @@ The full list is on our [software page](https://www.ce.cit.tum.de/cm/software-st
 ## Work with us
 
 - [Open thesis topics and guided research](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/)
-- [Teaching](https://www.ce.cit.tum.de/cm/teaching/)
+- [Offered Courses](https://www.ce.cit.tum.de/cm/teaching/)
 - [Jobs](https://www.ce.cit.tum.de/cm/jobs/)
 
 ## Contact
